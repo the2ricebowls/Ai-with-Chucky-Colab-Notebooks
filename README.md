@@ -1,25 +1,25 @@
 # Ai-with-Chucky-Colab-Notebooks
 
 ### MatAnyone2 Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/MatAnyone2%20Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/MatAnyone2%20Colab.ipynb)
 
 ### ComfyUI Colab Upgraded
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI%20Colab%20Upgraded.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI%20Colab%20Upgraded.ipynb)
 
 ### ComfyUI Optimized notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI_Optimized.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI_Optimized.ipynb)
 
 ### Z-Image Turbo Pro
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Z_Image_Turbo_Pro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/Z_Image_Turbo_Pro.ipynb)
 
 ### Z-Image With Lora Support
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Z-Image%20With%20_Lora%20Support.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/Z-Image%20With%20_Lora%20Support.ipynb)
 
 ### ACE Step 1.5 Colab UI
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ACE_Step_1_5_Colab_UI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/ACE_Step_1_5_Colab_UI.ipynb)
 
 ### Kani TTS-2 (English)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Kani_TTS_2_en.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/Kani_TTS_2_en.ipynb)
 
 ### Flux Klein 4B Outpainting Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%204B%20Outpainting%20Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the2ricebowls/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%204B%20Outpainting%20Colab.ipynb)
